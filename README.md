@@ -1,5 +1,5 @@
 <h2> Hi, I'm Victor Croner! <img src="https://media3.giphy.com/media/gYcLlBujuOmjcnNQ3t/giphy.gif?cid=790b7611c00f3da484b8d5b8693301ee6fd6ce124a9e67a7&rid=giphy.gif&ct=g" width="50"></h2>
-<p><em>Digital Games at <a href="https://www.iesb.br">Instituto de Educação Superior de Brasília.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Graduated in Digital Games at <a href="https://www.iesb.br">Instituto de Educação Superior de Brasília.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>Programming Instructor at <a href="https://www.codebuddy.com.br">Codebuddy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
