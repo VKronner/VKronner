@@ -9,9 +9,9 @@
 class Vkronner:
   def __init__(self):
     self.name = "Victor Croner"
-    self.code = ["Python", "C#", "HTML", "CSS", "Java"]
+    self.code = ["Python", "C#", "HTML", "CSS", "Java","JavaScript"]
     self.projects = "Working on It"
-    self.misc = [Firebase, Unity, Construct3]
+    self.misc = [Firebase, Unity, Construct3, NodeJS]
     self.welcome = "I Love Games and love Programming then. See just a simple Block coming to live is just like magic for me."
   def print_welcome(self):
     print(self.welcome)
