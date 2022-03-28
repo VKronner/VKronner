@@ -9,9 +9,10 @@
 class Vkronner:
   def __init__(self):
     self.name = "Victor Croner"
-    self.code = ["Python", "C#", "HTML", "CSS", "Java","JavaScript"]
+    self.comunication = "English, Good listening and reading comprehension, but average writing."
+    self.code = ["Android Studio, "C#', "Django", "HTML5" , "JAVA", "Kotlin, "MySQL", Node.JS", "Python", "React", "React Native", SQLite" "VS Code"]
     self.projects = "Working on It"
-    self.misc = [Firebase, Unity, Construct3, NodeJS]
+    self.misc = [Firebase, Unity]
     self.welcome = "I Love Games and love Programming then. See just a simple Block coming to live is just like magic for me."
   def print_welcome(self):
     print(self.welcome)
@@ -21,6 +22,63 @@ obj = Vkronner()
 obj.print_welcome()
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>LETS MAKE MAGIC!!!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+### :art: Minhas ferramentas
+                                                                                                         
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+<details>
+<summary>:books: Cursos </summary>
+   
+| CONCLUÍDOS                                                         | URL                                                                                 | CARGA HORÁRIA |
+| :---                                                               |    :----:                                                                           |    :----:     |
+| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner                                                  | 20 horas      |
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More!         | https://www.udemy.com/course/advanced-css-and-sass/                                 | 
+  
+</details>
+
+<details>
+  <summary>🌱 Aprendendo</summary>
+
+| CURSANDO                                                           | URL                                                       | CARGA HORÁRIA |
+| :---                                                               |    :----:                                                 |    :----:     |
+| Lorem Ipsum is simply dummy text                                   | https://www.google.com/                                   | 32 horas      |
+| Lorem Ipsum is simply dummy text                                   | https://www.google.com/                                   | 15 horas      |
+
+</details>
+
+<details>
+  <summary>:rocket: My projects </summary>
+  <p>
+          I'm working to expand my list of completed projects, one by one.
+  </p>
+
+| DATA        | CLIENTE                             | URL                                              |
+| :---        |    :----:                           |    :----:                                        |
+| 2020        | MetaCritic Scrapper                 | https://github.com/VKronner/MetaScrapper         |  
+  
+
+</details>
+
+</details>
+<div class="MakingMagic" align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>LETS MAKE MAGIC!!!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </div>
+
 
 ---
+
+
