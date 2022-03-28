@@ -45,20 +45,18 @@ obj.print_welcome()
 <details>
 <summary>:books: Cursos </summary>
    
-| CONCLUÍDOS                                                         | URL                                                                                 | CARGA HORÁRIA |
-| :---                                                               |    :----:                                                                           |    :----:     |
-| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner                                                  | 20 horas      |
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More!         | https://www.udemy.com/course/advanced-css-and-sass/                                 | 
+| CONCLUÍDOS                                                         | URL                                                            | CARGA HORÁRIA |
+| :---                                                               |    :----:                                                      |    :----:     |
+| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner                             | 20 horas      |
   
 </details>
 
 <details>
   <summary>🌱 Aprendendo</summary>
 
-| CURSANDO                                                           | URL                                                       | CARGA HORÁRIA |
-| :---                                                               |    :----:                                                 |    :----:     |
-| Lorem Ipsum is simply dummy text                                   | https://www.google.com/                                   | 32 horas      |
-| Lorem Ipsum is simply dummy text                                   | https://www.google.com/                                   | 15 horas      |
+| CURSANDO                                    | URL                                                                                  | CARGA HORÁRIA |
+| :---                                        |    :----:                                                                            |    :----:     |
+| Programação em Python do básico ao avançado | https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/   | 32 horas      |
 
 </details>
 
