@@ -68,7 +68,8 @@ obj.print_welcome()
 
 | DATA        | CLIENTE                             | URL                                              |
 | :---        |    :----:                           |    :----:                                        |
-| 2020        | MetaCritic Scrapper                 | https://github.com/VKronner/MetaScrapper         |  
+| 2022        | MetaCritic Scrapper                 | https://github.com/VKronner/MetaScrapper         |  
+| 2022        | AndroidClocks                       | https://github.com/VKronner/AndroidClocks        |  
   
 
 </details>
