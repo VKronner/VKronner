@@ -47,16 +47,16 @@ obj.print_welcome()
    
 | CONCLUÍDOS                                                         | URL                                                            | CARGA HORÁRIA |
 | :---                                                               |    :----:                                                      |    :----:     |
-| HTML, CSS, Sass, UX/UI, Illustrator, Photoshop, Logo               | https://teamtreehouse.com/brcroner                             | 20 horas      |
+| ----------------------------------------------------               | ----------------------------------                             | 00 horas      |
   
 </details>
 
 <details>
   <summary>🌱 Aprendendo</summary>
 
-| CURSANDO                                    | URL                                                                                  | CARGA HORÁRIA |
-| :---                                        |    :----:                                                                            |    :----:     |
-| Programação em Python do básico ao avançado | https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/   | 32 horas      |
+| CURSANDO                                                | URL                                                                 | CARGA HORÁRIA |
+| :---                                                    |    :----:                                                           |    :----:     |
+| Java 2022 COMPLETO: Do Zero ao Profissional + Projetos! | https://www.udemy.com/course/fundamentos-de-programacao-com-java/   | 77 horas      |
 
 </details>
 
