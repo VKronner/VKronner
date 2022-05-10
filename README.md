@@ -40,6 +40,7 @@ obj.print_welcome()
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <details>
@@ -66,15 +67,28 @@ obj.print_welcome()
           I'm working to expand my list of completed projects, one by one.
   </p>
 
-| DATA        | CLIENTE                             | URL                                              |
-| :---        |    :----:                           |    :----:                                        |
-| 2022        | MetaCritic Scrapper                 | https://github.com/VKronner/MetaScrapper         |  
-| 2022        | AndroidClocks                       | https://github.com/VKronner/AndroidClocks        |  
+| DATA        | CLIENTE                             | URL                                                            |
+| :---        |    :----:                           |    :----:                                                      |
+| 2022        | MetaCritic Scrapper                 | https://github.com/VKronner/MetaScrapper                       |  
+| 2022        | Criador de Modelos de Email         | https://github.com/VKronner/Criador-de-Modelos-de-Email        |  
   
 
 </details>
 
 </details>
+<div>
+  
+  <h3>Wanna Contact Me</h3>
+  
+   <a href="https://www.linkedin.com/in/victorcroner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/p6GTuSNREv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://web.whatsapp.com/send?phone=5561982874900&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kronners18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+
+
 <div class="MakingMagic" align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>LETS MAKE MAGIC!!!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </div>
 
 
