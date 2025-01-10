@@ -10,7 +10,7 @@ class Vkronner:
   def __init__(self):
     self.name = "Victor Croner"
     self.comunication = "English, Good listening and reading comprehension, but average writing."
-    self.code = ["Android Studio, "C#', "Django", "HTML5" , "JAVA", "Kotlin, "MySQL", Node.JS", "Python", "React", "React Native", SQLite" "VS Code"]
+    self.code = ["Android Studio", "C#", "Django", "HTML5" , "JAVA", "Kotlin", "MySQL", "Node.JS", "Python", "React", "React Native", "SQLite" "VS Code"]
     self.projects = "Working on It"
     self.misc = [Firebase, Unity]
     self.welcome = "I Love Games and love Programming then. See just a simple Block coming to live is just like magic for me."
